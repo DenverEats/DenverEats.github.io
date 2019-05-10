@@ -10,6 +10,7 @@
             smartSpeed: 1500,
             margin: 0,
             nav: true,
+            autoplayTimeout: 12000,
             navText: ['', '<i class="fa fa-arrow-right" aria-hidden="true"></i>']
         })
         var wel_slides = $('.caviar-hero-slides');
